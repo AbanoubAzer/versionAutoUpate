@@ -1,7 +1,7 @@
 
 {
     "versionName":"2.0",
-    "versionCode": "2",
+    "versionCode": "1",
     "apkUrl":"https://raw.githubusercontent.com/AbanoubAzer/versionAutoUpate/master/base.apk",
     "forceUpdate": false
   }
